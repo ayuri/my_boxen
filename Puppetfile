@@ -65,3 +65,6 @@ github "xquartz",     "1.2.1"
 # github "postgresql",  "4.0.1"
 # github "redis",       "3.1.0"
 # github "sysctl",      "1.0.1"
+
+# My customize 2016.6.9
+github "java",		"1.8.4"
